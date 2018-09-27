@@ -1,4 +1,4 @@
-[Awesome Player]
+[Awesome Player](https://github.com/lokesh525/Awesome_Player)
 ==============================
 
 ![Awesome Music Player](https://i.postimg.cc/HLxNZK48/musicplayer.png)
